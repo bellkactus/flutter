@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/becky/Documents/dev/Personal/practicing_cards/linux",
+      "program": "/Users/becky/Documents/dev/Personal/practicing_cards/linux/build/Debug/outDebug"
+    }
+  ]
+}
